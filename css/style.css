@@ -64,7 +64,7 @@ body {
   columns: #273d46;
   max-width: 845px;
   padding: 124px 0;
-  background: #e8e8e8 url("../../img/two_lines.png") 140px 103px no-repeat; }
+  background: #e8e8e8 url("../img/two_lines.png") 140px 103px no-repeat; }
 
 .header {
   text-align: center; }
@@ -123,7 +123,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    background: url("../../img/icons/check_green.png") left no-repeat; }
+    background: url("../img/icons/check_green.png") left no-repeat; }
 
 .button div {
   margin: 0 0 137px 0;
@@ -139,5 +139,5 @@ body {
   background-color: #80b7b3;
   border-radius: 24px; }
   .button div span {
-    background: #80b7b3 url("../../img/icons/arrow_right_white.png") right no-repeat;
+    background: #80b7b3 url("../img/icons/arrow_right_white.png") right no-repeat;
     padding: 0 30px 0 0; }
